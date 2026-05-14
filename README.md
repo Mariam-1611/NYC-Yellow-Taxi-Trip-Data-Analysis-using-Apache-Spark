@@ -89,6 +89,20 @@ NYC-Taxi-Spark-Analysis/
 * Hadoop Ecosystem Concepts
 
 ---
+# Dataset Download
+
+The dataset is too large to upload directly to GitHub.
+
+You can download it from Kaggle:
+
+[NYC Yellow Taxi Trip Data Dataset](https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data)
+
+File used in this project:
+- `yellow_tripdata_2015-01.csv`
+
+After downloading, place the dataset inside the `data/` folder.
+
+---
 
 # Queries Implemented
 
