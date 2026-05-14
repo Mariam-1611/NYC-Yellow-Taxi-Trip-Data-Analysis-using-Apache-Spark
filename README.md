@@ -1,6 +1,3 @@
-# README.md
-
-````markdown
 # NYC Yellow Taxi Trip Data Analysis using Apache Spark
 
 ## Overview
